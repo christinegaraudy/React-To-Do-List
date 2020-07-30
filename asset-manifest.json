@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/christinegaraudy/React-To-Do-List/static/css/main.f7186e1d.chunk.css",
+    "main.js": "/christinegaraudy/React-To-Do-List/static/js/main.c8c8be75.chunk.js",
+    "main.js.map": "/christinegaraudy/React-To-Do-List/static/js/main.c8c8be75.chunk.js.map",
+    "runtime-main.js": "/christinegaraudy/React-To-Do-List/static/js/runtime-main.830dd6d3.js",
+    "runtime-main.js.map": "/christinegaraudy/React-To-Do-List/static/js/runtime-main.830dd6d3.js.map",
+    "static/js/2.11d43a1b.chunk.js": "/christinegaraudy/React-To-Do-List/static/js/2.11d43a1b.chunk.js",
+    "static/js/2.11d43a1b.chunk.js.map": "/christinegaraudy/React-To-Do-List/static/js/2.11d43a1b.chunk.js.map",
+    "index.html": "/christinegaraudy/React-To-Do-List/index.html",
+    "precache-manifest.bcf04e7f8f3d8934b31eca9475c6136e.js": "/christinegaraudy/React-To-Do-List/precache-manifest.bcf04e7f8f3d8934b31eca9475c6136e.js",
+    "service-worker.js": "/christinegaraudy/React-To-Do-List/service-worker.js",
+    "static/css/main.f7186e1d.chunk.css.map": "/christinegaraudy/React-To-Do-List/static/css/main.f7186e1d.chunk.css.map",
+    "static/js/2.11d43a1b.chunk.js.LICENSE.txt": "/christinegaraudy/React-To-Do-List/static/js/2.11d43a1b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.830dd6d3.js",
+    "static/js/2.11d43a1b.chunk.js",
+    "static/css/main.f7186e1d.chunk.css",
+    "static/js/main.c8c8be75.chunk.js"
+  ]
+}
